@@ -1,0 +1,5 @@
+com\algasensors\subscriber\config\RabbitMQConfig.class
+com\algasensors\subscriber\listener\SubscriberAuditoriaListener.class
+com\algasensors\subscriber\SubscriberServiceApplication.class
+com\algasensors\subscriber\listener\SubscriberEmailListener.class
+com\algasensors\subscriber\dto\PessoaDTO.class

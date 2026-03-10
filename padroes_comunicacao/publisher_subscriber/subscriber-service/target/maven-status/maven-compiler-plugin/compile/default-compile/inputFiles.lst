@@ -1,0 +1,5 @@
+C:\Users\Vinicius\Documents\ESTUDO\organizado\GIT\poc_rabbitmq\padroes_comunicacao\publisher_subscriber\subscriber-service\src\main\java\com\algasensors\subscriber\config\RabbitMQConfig.java
+C:\Users\Vinicius\Documents\ESTUDO\organizado\GIT\poc_rabbitmq\padroes_comunicacao\publisher_subscriber\subscriber-service\src\main\java\com\algasensors\subscriber\dto\PessoaDTO.java
+C:\Users\Vinicius\Documents\ESTUDO\organizado\GIT\poc_rabbitmq\padroes_comunicacao\publisher_subscriber\subscriber-service\src\main\java\com\algasensors\subscriber\listener\SubscriberAuditoriaListener.java
+C:\Users\Vinicius\Documents\ESTUDO\organizado\GIT\poc_rabbitmq\padroes_comunicacao\publisher_subscriber\subscriber-service\src\main\java\com\algasensors\subscriber\listener\SubscriberEmailListener.java
+C:\Users\Vinicius\Documents\ESTUDO\organizado\GIT\poc_rabbitmq\padroes_comunicacao\publisher_subscriber\subscriber-service\src\main\java\com\algasensors\subscriber\SubscriberServiceApplication.java

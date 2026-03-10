@@ -1,0 +1,4 @@
+com\algasensors\publisher\config\RabbitMQConfig.class
+com\algasensors\publisher\controller\PessoaController.class
+com\algasensors\publisher\dto\PessoaDTO.class
+com\algasensors\publisher\PublisherServiceApplication.class
